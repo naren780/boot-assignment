@@ -1,0 +1,249 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+#title{
+    background-color:#100ceea6 ;
+    color:#fff;
+    
+}
+h1{
+    font-family:montserrat-black ;
+    font-size:4.5rem ;
+    line-height: 1.5;
+    padding-top: 90px;
+}
+.para1{
+    font-size: 2.5rem;
+}
+span{
+    border:none;
+    border-bottom: 3px solid rgb(128, 240, 128);
+    font-weight: bolder;
+}
+/*comtainer*/
+.container-fluid{
+    padding:3% 3%;
+}
+/*navabar*/
+.navbar-brand{
+    font-family: ubuntu;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.navbar-expand-lg{
+    justify-content: flex-end;
+}
+.navbar{
+   
+    padding-top: 0%;
+    
+
+}
+.nav-item{
+    padding:0 18px;
+   
+
+    
+}
+.nav-link{
+    font-family:montserrat-light ;
+    font-size: 1.2rem;
+}
+.down-btn{
+    border-radius: 20px;
+    
+    background-color: rgb(128, 240, 128);
+    color: #fff;
+    padding:9px 55px;
+    
+}
+/*title image*/
+.title-img{
+    width:70%;
+  padding-left: 10%;
+  padding-bottom: 0%;
+  margin-left:20% ;
+}
+/*about*/
+#about{
+    padding-top: 3% 3%;
+}
+.about-img{
+    padding-top: 30%;
+}
+h2{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:3.7rem ;
+    line-height: 1;
+    color: rgba(28, 28, 129, 0.918);
+    padding-top:
+
+}
+.para-about{
+    
+    padding-top: 15px;
+}
+h3{
+    padding-top: 9%;
+    padding-right:3%;
+
+}
+h5{
+    padding-top: 20px;
+    font-size: 20px;
+    padding-bottom: 0%;
+}
+/*feature*/
+#features{
+    padding:5% 3%;
+
+}
+/*.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 10px;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  
+  .grid-container > div {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid black;
+    text-align: center;
+    font-size: 30px;
+  }*/.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap: 15px;
+    background-color:transparent;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    
+  }
+  
+  .grid-container > div {
+    background-color: aliceblue;
+    border: none;
+    text-align: left;
+    font-size: 25px;
+    
+    padding: 5% 3% 5%;
+  }
+
+
+
+
+
+
+  /*gallery*/
+  #gallery{
+    padding:3% 3%;
+  }
+  .grid-container1 {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    gap:2px;
+    background-color:transparent;
+    padding:1px 1px;
+  }
+  
+  .grid-container1 > div {
+
+    border: none;
+    text-align: center;
+    padding:1px 1px;
+  }
+
+
+
+
+
+
+  /*test*/
+  #testimonials{
+     background-color:#100ceea6 ;
+    color:#fff;
+    text-align: center;
+    padding:7% 15%;
+
+}
+.text-img{
+    width:10%;
+    border-radius:100px;
+    
+}
+/*carasoul*/
+.carousel-item{
+    padding:7% 15%;
+}
+/*pricing*/
+#pricing{
+    padding:3% 3%;
+   
+    
+}
+.pricing-column{
+    padding:5% 5%;
+    text-align: center;
+    width:200px;
+    height:200px;
+
+}
+
+.row{
+ padding:2% 2% 0%;
+}
+/*team*/
+#team{
+    padding:3% 3%;
+}
+/*contact*/
+#contact{ 
+    padding:3% 3%;
+}
+h3{
+    color: rgba(28, 28, 129, 0.918);
+    font-weight: bold;
+
+}
+.p1{
+    color:rgba(28, 28, 129, 0.918);
+    font-weight: lighter;
+    font-size: 20px;
+
+}
+input{
+    padding:20px 150px;
+    margin-top: 20px;
+    
+
+}
+.sub{
+    padding:20px 412px;
+    margin-top: 20px;
+}
+/*icon*/
+.icon-contact{
+    color:rgba(28, 28, 129, 0.918);
+    display: inline-block;
+    
+}
+textarea{
+    padding:45px 415px;
+    margin-top: 20px;
+}
+form{
+    padding-top: 50px;
+    
+}
+button{
+    border-radius: 25px;
+    background-color:rgba(47, 146, 47, 0.747);
+    padding: 15px 35px;
+    
+    border:none;
+    margin-left: 450px;
+    margin-top: 15px;
+    color:#fff
+}
+
